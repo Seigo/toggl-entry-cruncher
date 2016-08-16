@@ -1,0 +1,10 @@
+{
+	"name": "toggl_cruncher",
+	"version": "1.0.0",
+	"description": "",
+	"author": "gsosawa",
+	"license": "MIT",
+	"dependencies": {
+		"mysql": "2.11.1"
+	}
+}
